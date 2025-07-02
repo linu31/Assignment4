@@ -15,21 +15,12 @@ CSS3
 JavaScript (Vanilla)
 Bootstrap 5
 
-📁 Project Structure
-📦 Modern-Login
-├── index.html
-├── style.css (optional if separated)
-└── README.md
-
 📌 How to Use
 Clone this repo:
-git clone https://github.com/yourusername/modern-login.git
 Open index.html in your browser
 Enter a 10-digit phone number & a password of at least 6 characters
 Click Login to see validation in action!
 
-🙋‍♀️ Author
-Made with ❤️ by Sanjana
+Made with ❤️ by Linu priyanth
 
-📜 License
-This project is open-source under the MIT License.
+
